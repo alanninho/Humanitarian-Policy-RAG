@@ -1,0 +1,29 @@
+# Ingestion / parsing
+requests
+pymupdf
+unstructured
+
+# Orchestration
+langchain
+llama-index
+
+# Embeddings / reranking
+sentence-transformers
+
+# Vector store
+qdrant-client
+
+# Evaluation
+ragas
+
+# LLM API (choose one)
+anthropic
+# openai
+
+# Serving
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+pydantic
